@@ -1,4 +1,4 @@
-University of Michigan – Shanghai JiaoTong Univeristy Joint Institute
+# University of Michigan – Shanghai JiaoTong Univeristy Joint Institute
 - 🎓 Electrical & Computer Engineering
 ---
 
