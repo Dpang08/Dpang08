@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Eunsoo Pang  
-
-🎓 Electrical & Computer Engineering @ UM–SJTU JI  
+University of Michigan – Shanghai JiaoTong Univeristy Joint Institute
+🎓 Electrical & Computer Engineering
 ---
 
 ## 🧠 Skills
