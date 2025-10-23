@@ -1,5 +1,5 @@
 University of Michigan – Shanghai JiaoTong Univeristy Joint Institute
-🎓 Electrical & Computer Engineering
+- 🎓 Electrical & Computer Engineering
 ---
 
 ## 🧠 Skills
