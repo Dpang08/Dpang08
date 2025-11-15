@@ -16,4 +16,4 @@
 
 ---
 ####  Resume
-[View my Resume](./Eunsoo_Pang_Resume.pdf)
+[View my Resume](./resume.pdf)
